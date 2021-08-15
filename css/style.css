@@ -109,7 +109,7 @@ nav .nav-links ul li a {
         background: #F44336;
         z-index: 2;
         padding: 30px;
-        transition: 1s
+        transition: 0.7s
     }
 
     .text-box h2 {font-size: 20px}
